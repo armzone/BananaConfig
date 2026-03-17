@@ -235,5 +235,5 @@ getgenv().Config = {
 	["Value Speed Boat"] = 200
 }
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
-getgenv().Key = "a0b7e59a3366b969ac54f51a" 
+getgenv().Key = "3c3f4ae3bfd3e6a29a742793" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))() 
