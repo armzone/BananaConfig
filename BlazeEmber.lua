@@ -140,11 +140,11 @@ getgenv().Config = {
 	["Hop Server [Trial Or Pull Lever]"] = false,
 	["Auto Find Leviathan"] = false,
 	["Select Skills Blox Fruit"] = {
-		["X"] = false,
-		["C"] = false,
+		["X"] = true,
+		["C"] = true,
 		["Z"] = false,
 		["V"] = false,
-		["F"] = false
+		["F"] = true
 	},
 	["Farm Material"] = true,
 	["Bring Mob Count"] = 2,
