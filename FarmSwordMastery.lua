@@ -88,8 +88,8 @@ getgenv().Config = {
 	["Min Player Join Dungeon"] = 2,
 	["Auto Turn On V4"] = false,
 	["Select Skills Gun"] = {
-		["Z"] = true,
-		["X"] = true
+		["Z"] = false,
+		["X"] = false
 	},
 	["Auto Trade Bone"] = false,
 	["Auto Chest Hop"] = false,
@@ -135,7 +135,7 @@ getgenv().Config = {
 	["Auto Load Script"] = false,
 	["Webhook Store Fruit"] = false,
 	["Auto Collect Egg"] = false,
-	["% Health Player"] = 40,
+	["% Health Player"] = 60,
 	["Auto Dodge Skill Seabeast"] = false,
 	["Auto Get Cyborg Hop Collect Chest"] = false,
 	["Teleport Player"] = false,
@@ -234,5 +234,5 @@ getgenv().Config = {
 	["Value Speed Boat"] = 200
 }
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
-getgenv().Key = "3c3f4ae3bfd3e6a29a742793" 
+getgenv().Key = "6cf367a2ea18c680634f7624" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))() 
